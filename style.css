@@ -1,0 +1,16 @@
+/* Properties which are inherited by the child element*/
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  color: gray;
+}
+
+/* Properties which are not inherited by the child element */
+
+body{
+  width: 80%;
+  margin: 10px;
+  padding: 20px;
+  border: 1px solid gray;
+}
